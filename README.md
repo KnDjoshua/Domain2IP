@@ -1,6 +1,8 @@
 <div align='center'>
 
-<h1>DNS </h1>
+<h1>Domain2IP </h1>
+<p>Domain name to IP addresses converter</p>
+
 <h4> <span> · </span> <a href="https://github.com/KnDjoshua/Domain2IP/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/KnDjoshua/Domain2IP/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/KnDjoshua/Domain2IP/issues"> Request Feature </a> </h4>
 
 
